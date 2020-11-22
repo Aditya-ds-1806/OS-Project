@@ -1,0 +1,15 @@
+{
+  "name": "os-project",
+  "version": "1.0.0",
+  "description": "Parsing a large chess PGN file using worker threads in node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch index.js"
+  },
+  "keywords": [],
+  "author": "Aditya D.S.",
+  "license": "MIT",
+  "dependencies": {
+    "chess-pgn-parser": "^1.3.9"
+  }
+}
