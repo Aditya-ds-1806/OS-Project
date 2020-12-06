@@ -1,3 +1,9 @@
 node_modules
 *.json
 *.pgn
+report/*
+!report/report.pdf
+!report/graph.png
+!report/games-32.png
+!report/games-128-op.png
+!report/browser-demo.png
